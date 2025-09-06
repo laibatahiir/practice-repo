@@ -1,5 +1,6 @@
 Hello Github!
 
+This is a new feature line
 bug fix line
 old code here
 new feature line
